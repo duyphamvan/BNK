@@ -1,0 +1,9 @@
+15
+2
+12
+7,Duc Do, 20-10-1990, Thai Binh, 9, 7 ,2
+8,KaKa, 20-10-1990, Thai Binh, 1, 7 ,2
+9,Messi, 20-10-1990, Thai Binh, 0, 7 ,2
+10,Duy Pham, 20-10-1990, Thai Binh, 6, 7 ,2
+11,Hieu Tran, 20-10-1990, Thai Binh, 4, 7 ,2
+12,Minh Chung, 20-10-1990, Thai Binh, 8, 7 ,2
